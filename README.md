@@ -1,2 +1,2 @@
 # Inside-my-head-blog
-Website for blog everyone
+Website blog for everyone
