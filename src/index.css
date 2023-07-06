@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+body{
+    font-family: 'Exo 2';
+    overflow-x: hidden;
+    height: 100%;
+    color: #fff;
+    background: #272727;
+    
+}

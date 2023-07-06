@@ -10,17 +10,22 @@ module.exports = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-      'blue': {
-        light: '#cbe6ff',
-        DEFAULT: '#4285B4',
-        secondary: '#d3e4f6',
+      'Green': {
+        light: '#6EEB83',
+        DEFAULT: '#6EEB83',
+        secondary: '#6EEB83',
       },
       white: colors.white,
       black: colors.black,
       stone: colors.stone,
       red: colors.red,
       green: colors.green
+    },
+    fontFamily: {
+      'Title': 'Alegreya Sans',
+      'about': 'Exo 2',
     }
   },
+
   plugins: [],
 }
